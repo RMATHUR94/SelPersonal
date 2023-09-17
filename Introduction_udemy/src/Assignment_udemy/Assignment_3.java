@@ -1,5 +1,5 @@
 package Assignment_udemy;
-
+//TESTING PUSH FROM Github Desktop
 import java.time.Duration;
 import java.util.List;
 
@@ -15,7 +15,7 @@ public class Assignment_3 {
 
 	public static void main(String[] args) throws Exception {
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Users\\user\\Downloads\\chromedriver_win32\\chromedriver.exe");
+				"C:\\Users\\user\\Downloads\\DriverChrome\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.rahulshettyacademy.com/loginpagePractise/");
 		driver.manage().window().maximize();

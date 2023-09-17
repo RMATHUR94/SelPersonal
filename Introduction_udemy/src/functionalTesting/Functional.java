@@ -1,14 +1,14 @@
 package functionalTesting;
 
-import java.time.Duration;
-import java.util.Arrays;
-import java.util.List;
-import java.util.jar.Attributes.Name;
-
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
+	import java.time.Duration;
+	import java.util.Arrays;
+	import java.util.List;
+	import java.util.jar.Attributes.Name;
+	
+	import org.openqa.selenium.By;
+	import org.openqa.selenium.WebDriver;
+	import org.openqa.selenium.WebElement;
+	import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Functional {
 
